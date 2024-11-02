@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26329000246",
+    "project_id": "gati-frontend",
+    "storage_bucket": "gati-frontend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26329000246:android:c89c382903e042bb5b6b97",
+        "android_client_info": {
+          "package_name": "com.gati.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vCyTQK40lhS_XgAtCyW4-JlXB6tctaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
